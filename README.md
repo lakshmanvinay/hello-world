@@ -1,5 +1,4 @@
 # hello-world
 Project
 
-My name is Lakshman Vinay
-Completed my graduation in 2020
+This project is a Responsive Web Design Using HTML5, CSS
